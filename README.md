@@ -11,7 +11,7 @@ I'm Arindam aka Xynox, a guy who loves coding too much. I'm a passionate develop
 - Discord Bio - [Xynox#0117](https://discord.bio/p/xynox)
 - My GitHub Statistics -
 
-![Swastik Baranwal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=XynoxTheDev&hide=["stars"]&show_icons=true)
+![Arindam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=XynoxTheDev&hide=["stars"]&show_icons=true)
 
 ### Programming Languages 🌐
 
@@ -30,7 +30,7 @@ I'm Arindam aka Xynox, a guy who loves coding too much. I'm a passionate develop
 - Know/Using
 
 | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/actions.png" alt="actions logo" width="24">](https://github.com/features/actions) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aws.png" alt="aws logo" width="24">](https://aws.amazon.com/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png" alt="vscode logo" width="24">](https://code.visualstudio.com/)| Windows Terminal | many more...
-|---|---|---|---|
+|---|---|---|---|---|
 
 - Learning
 
