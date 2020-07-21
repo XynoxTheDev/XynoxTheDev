@@ -1,4 +1,4 @@
-### Heyo Fam😄
+### Heyo Fam 😄
 
 I'm Arindam aka Xynox, a guy who loves coding too much. I'm a passionate developer making awesome things for tons of smiling faces. 😉
 
