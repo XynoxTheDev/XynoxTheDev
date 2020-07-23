@@ -2,7 +2,7 @@
 
 I'm Arindam aka Xynox, a guy who loves coding too much. I'm a passionate developer making awesome things for tons of smiling faces. 😉
 
-### Status
+### Status (not fixed)
 
 ![](https://img.shields.io/endpoint?label=currently&url=https://dev.discordprofiles.me/api/badge/status/621764740573560842?simple=true) ![](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/621764740573560842?vscode=false) ![](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/621764740573560842) ![](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/621764740573560842)
 
