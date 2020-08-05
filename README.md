@@ -33,7 +33,7 @@ I'm Arindam aka Xynox. I'm a passionate developer making awesome things for tons
 
 - Learning
 
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker logo" width="34">](https://www.docker.com/) | many more...
+| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker logo" width="34">](https://www.docker.com/)
 |---|---|
 
 ### Other Accounts 📫
@@ -43,7 +43,7 @@ You can find and get touch with me on these accounts!
 | [<img src="https://cdn.discordapp.com/attachments/734783032829149245/735529372265742376/github.png" alt="github logo" width="34">](https://github.com/XynoxTheDev) | [<img src="https://cdn.discordapp.com/attachments/734783680366641314/735153539814522943/discord.png" alt="discord logo" width="34">](https://discord.gg/AxXkddX) | [<img src="https://cdn.discordapp.com/attachments/734783680366641314/735153538690449408/youtube.png" alt="stack logo" width="28">](https://www.youtube.com/channel/UCLAiaWy_tuhP8jEwp7iA4FA)  | [<img src="https://cdn.discordapp.com/attachments/711225617206476920/735528211588448337/instagram.jpg" width="24">](https://www.instagram.com/arindamz._/) | [<img src="https://cdn.discordapp.com/attachments/734783032829149245/735529330163056681/twitter.png" alt="twitter logo" width="38">](https://twitter.com/Arindamz03) | [<img src="https://cdn.discordapp.com/attachments/734783680366641314/735153536400228432/twitch.png" alt="twitch logo" width="24">](https://www.twitch.tv/xynox03) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/dev.png" alt="dev logo" width="24">](https://dev.to/xynox03) | [many more](https://linktr.ee/ig_xynox)
 |---|---|---|---|---|---|---|---|
 
-### A Big Thanks To [Swastik Baranwal](https://github.com/Delta456) ❤️
+### A Big Thanks To [Swastik Baranwal](https://github.com/Delta456) ❤️ For This README
 
 <img src="https://cdn.discordapp.com/attachments/638624243390611466/735122949832704040/xynox-banner.png">
 
