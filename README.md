@@ -45,4 +45,4 @@ You can find and get touch with me on these accounts!
 
 [<img src="https://cdn.discordapp.com/attachments/638624243390611466/735122949832704040/xynox-banner.png">](https://github.com/XynoxTheDev/)
 
-# A Big Thanks To [Swastik Baranwal](https://github.com/Delta456) ❤️ For This README
+- A Big Thanks To [Swastik Baranwal](https://github.com/Delta456) ❤️ For This README
