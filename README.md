@@ -18,7 +18,35 @@ I'm Arindam aka Xynox. I'm a passionate developer making awesome things for tons
 
 - Spotify Status 🎧 
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Arindamz Spotify Playing" width="350" />](https://open.spotify.com/user/zrei8evwinfjy9d27fjon68hh)
+<div id="presence_spotify" class="box is-size-6" style='display: inline-block; background: #1cb050; min-width: 300px; vertical-align: bottom'>
+<p class="is-uppercase is-size-7 has-text-weight-bold" style="margin-bottom: .75em">Listening to Spotify</p>
+<div style="margin-bottom: .75em">
+<figure class="image is-64x64" style="display: inline-grid; vertical-align: middle; cursor: default" data-tooltip="Beautiful">
+ <img style="border-radius: 4px" src="https://i.scdn.co/image/ab67616d0000b273619eee9c15b57b6bb7d6201a" alt="Beautiful">
+</figure>
+<div style="display: inline-grid; vertical-align: middle; margin-left: 10px">
+<p class="has-text-weight-bold">Beautiful</p>
+<p>by MOTi, JETFIRE, Lovespeake</p>
+<p>on Beautiful</p>
+</div>
+</div>
+<progress id="spotify_progress" style="margin-bottom: 0; height: .3rem" class="progress" value="12556" max="150000" start="1597563362452" end="1597563512452"></progress>
+<script type="9a99289dfb20f87d955462c7-text/javascript">
+                      window.barInterval = null;
+                      const bar = document.getElementById("spotify_progress");
+                      window.barInterval = setInterval(() => {
+                        if (bar == null || !bar.getAttribute("start") || !bar.getAttribute("end")) {
+                          clearInterval(window.barInterval);
+                          delete window.barInterval;
+                        }
+                        bar.value = Date.now() - parseInt(bar.getAttribute("start"));
+                        if (((parseInt(bar.getAttribute("end")) - Date.now()) <= 0)) {
+                          clearInterval(window.barInterval);
+                          delete window.barInterval;
+                        }
+                      }, 1000);
+                    </script>
+</div>
 
 ### Programming Languages 🌐
 
