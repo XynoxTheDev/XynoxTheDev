@@ -12,7 +12,9 @@ I'm Arindam aka Xynox. I'm a passionate developer making awesome things for tons
 
 ![Arindam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=XynoxTheDev&hide=["stars"]&show_icons=true)
 
-### Spotify Status 🎧 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Arindamz Spotify Playing" width="350" />](https://open.spotify.com/user/zrei8evwinfjy9d27fjon68hh)
+- Spotify Status 🎧 
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Arindamz Spotify Playing" width="350" />](https://open.spotify.com/user/zrei8evwinfjy9d27fjon68hh)
 
 ### Programming Languages 🌐
 
