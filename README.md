@@ -18,6 +18,8 @@ I'm Arindam aka Xynox. I'm a passionate developer making awesome things for tons
 
 - Spotify Status 🎧 
 
+</figure>
+</div>
 <div id="presence_spotify" class="box is-size-6" style='display: inline-block; background: #1cb050; min-width: 300px; vertical-align: bottom'>
 <p class="is-uppercase is-size-7 has-text-weight-bold" style="margin-bottom: .75em">Listening to Spotify</p>
 <div style="margin-bottom: .75em">
@@ -46,7 +48,6 @@ I'm Arindam aka Xynox. I'm a passionate developer making awesome things for tons
                         }
                       }, 1000);
                     </script>
-</div>
 
 ### Programming Languages 🌐
 
