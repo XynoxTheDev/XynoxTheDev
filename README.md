@@ -4,7 +4,7 @@ I'm Arindam aka Xynox. I'm a passionate developer making awesome things for tons
 
 ### Current Status 
 
-![](https://img.shields.io/endpoint?label=currently&url=https://dev.discordprofiles.me/api/badge/status/621764740573560842?simple=true) ![](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/621764740573560842?vscode=false) ![](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/621764740573560842) ![](https://api.spotify.com/v1/users/zrei8evwinfjy9d27fjon68hh)
+![](https://img.shields.io/endpoint?label=Status&url=https://dev.discordprofiles.me/api/badge/status/621764740573560842?simple=true&logo=discord&logoColor=white&color=43B581) ![](https://img.shields.io/endpoint?label=Playing&url=https://dev.discordprofiles.me/api/badge/playing/621764740573560842?vscode=false&logo=nintendo-switch&color=8A96E9) ![](https://img.shields.io/endpoint?label=Visual%20Studio%20Code&url=https://dev.discordprofiles.me/api/badge/vscode/621764740573560842) ![](https://img.shields.io/endpoint?label=Spotify&url=https://dev.discordprofiles.me/api/badge/spotify/621764740573560842&color=1ED45F)
 
 ### About me 👨‍
 
