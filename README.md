@@ -4,14 +4,14 @@ I'm Arindam aka Xynox. I'm a passionate developer making awesome things for tons
 
 ### Current Status 
 
-![](https://img.shields.io/endpoint?label=Status&url=https://dev.discordprofiles.me/api/badge/status/621764740573560842?simple=true&logo=discord&logoColor=white&color=43B581) ![](https://img.shields.io/endpoint?label=Playing&url=https://dev.discordprofiles.me/api/badge/playing/621764740573560842?vscode=false&logo=nintendo-switch&color=8A96E9) ![](https://img.shields.io/endpoint?label=Visual%20Studio%20Code&url=https://dev.discordprofiles.me/api/badge/vscode/621764740573560842) ![](https://img.shields.io/endpoint?label=Spotify&url=https://dev.discordprofiles.me/api/badge/spotify/621764740573560842&color=1ED45F)
+![](https://img.shields.io/endpoint?label=Status&url=https://dev.discordprofiles.me/api/badge/status/594853883742912512?simple=true&logo=discord&logoColor=white&color=43B581) ![](https://img.shields.io/endpoint?label=Playing&url=https://dev.discordprofiles.me/api/badge/playing/594853883742912512?vscode=false&logo=nintendo-switch&color=8A96E9) ![](https://img.shields.io/endpoint?label=Visual%20Studio%20Code&url=https://dev.discordprofiles.me/api/badge/vscode/594853883742912512) ![](https://img.shields.io/endpoint?label=Spotify&url=https://dev.discordprofiles.me/api/badge/spotify/594853883742912512&color=1ED45F)
 
 ### About me 👨‍
 
 
 - Email - workforxynox@gmail.com
 - Location - India.
-- Discord Bio - [Xynox](https://dev.discordprofiles.me/profiles/621764740573560842) 
+- Discord Bio - [Xynox](https://dev.discordprofiles.me/profiles/594853883742912512) 
 - My GitHub Statistics -
 
 ![Arindam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=XynoxTheDev&hide=["stars"]&show_icons=true)
