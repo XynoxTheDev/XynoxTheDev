@@ -2,12 +2,16 @@
 
 I'm Arindam aka Xynox. I'm a passionate developer making awesome things for tons of smiling faces. 😉
 
+### Current Status 
+
+![](https://img.shields.io/endpoint?label=currently&url=https://dev.discordprofiles.me/api/badge/status/621764740573560842?simple=true) ![](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/621764740573560842?vscode=false) ![](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/621764740573560842) ![](https://api.spotify.com/v1/users/zrei8evwinfjy9d27fjon68hh)
+
 ### About me 👨‍
 
 
 - Email - workforxynox@gmail.com
 - Location - India.
-- Discord Bio - [Xynox](https://dev.discordprofiles.me/profiles/594853883742912512) 
+- Discord Bio - [Xynox#0117](https://discord.bio/p/xynox) 
 - My GitHub Statistics -
 
 ![Arindam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=XynoxTheDev&hide=["stars"]&show_icons=true)
@@ -40,9 +44,9 @@ I'm Arindam aka Xynox. I'm a passionate developer making awesome things for tons
 
 You can find and get touch with me on these accounts!
 
-| [<img src="https://cdn.discordapp.com/attachments/734783032829149245/735529372265742376/github.png" alt="github logo" width="34">](https://github.com/XynoxTheDev) | [<img src="https://cdn.discordapp.com/attachments/734783680366641314/735153539814522943/discord.png" alt="discord logo" width="34">](https://discord.gg/ZzbZpdw) | [<img src="https://cdn.discordapp.com/attachments/734783680366641314/735153538690449408/youtube.png" alt="stack logo" width="28">](https://www.youtube.com/channel/UCLAiaWy_tuhP8jEwp7iA4FA)  | [<img src="https://cdn.discordapp.com/attachments/711225617206476920/735528211588448337/instagram.jpg" width="24">](https://www.instagram.com/xynoxthedev/) | [<img src="https://cdn.discordapp.com/attachments/734783032829149245/735529330163056681/twitter.png" alt="twitter logo" width="38">](https://twitter.com/Arindamz03) | [<img src="https://cdn.discordapp.com/attachments/734783680366641314/735153536400228432/twitch.png" alt="twitch logo" width="24">](https://www.twitch.tv/xynox03) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/dev.png" alt="dev logo" width="24">](https://dev.to/xynox03) | [many more](https://linktr.ee/ig_xynox)
+| [<img src="https://cdn.discordapp.com/attachments/734783032829149245/735529372265742376/github.png" alt="github logo" width="34">](https://github.com/XynoxTheDev) | [<img src="https://cdn.discordapp.com/attachments/734783680366641314/735153539814522943/discord.png" alt="discord logo" width="34">](https://discord.gg/AxXkddX) | [<img src="https://cdn.discordapp.com/attachments/734783680366641314/735153538690449408/youtube.png" alt="stack logo" width="28">](https://www.youtube.com/channel/UCLAiaWy_tuhP8jEwp7iA4FA)  | [<img src="https://cdn.discordapp.com/attachments/711225617206476920/735528211588448337/instagram.jpg" width="24">](https://www.instagram.com/xynoxthedev/) | [<img src="https://cdn.discordapp.com/attachments/734783032829149245/735529330163056681/twitter.png" alt="twitter logo" width="38">](https://twitter.com/Arindamz03) | [<img src="https://cdn.discordapp.com/attachments/734783680366641314/735153536400228432/twitch.png" alt="twitch logo" width="24">](https://www.twitch.tv/xynox03) | [<img src="https://cdn.discordapp.com/attachments/648738733285441609/771260991648432168/images.png" alt="patreon logo" width="34">](https://www.patreon.com/arindamz) | [many more](https://linktr.ee/ig_xynox)
 |---|---|---|---|---|---|---|---|
 
-[<img src="https://cdn.discordapp.com/attachments/638624243390611466/735122949832704040/xynox-banner.png">](https://github.com/XynoxTheDev/)
+[<img src="https://cdn.discordapp.com/attachments/638624243390611466/735122949832704040/xynox-banner.png">](https://arindamz.github.io/)
 
 **A Big Thanks To [Swastik Baranwal](https://github.com/Delta456) ❤️ For This README**
