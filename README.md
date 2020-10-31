@@ -52,5 +52,4 @@ You can find and get touch with me on these accounts!
 [<img src="https://cdn.discordapp.com/attachments/638624243390611466/735122949832704040/xynox-banner.png">](https://arindamz.github.io/)
 
 > **A Big Thanks To [Swastik Baranwal](https://github.com/Delta456) ❤️ For This README** \
-> Provided by [`GitHub Readme Stats`]
-[`GitHub Readme Stats`]: https://github.com/anuraghazra/github-readme-stats
+> Provided by [`GitHub Readme Stats`](https://github.com/anuraghazra/github-readme-stats)
