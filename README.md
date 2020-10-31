@@ -45,15 +45,19 @@ I'm Arindam Hazra. You can call me Xynox if you want, or you can call me Arindam
 ## <img src="https://raw.githubusercontent.com/adarshaacharya/adarshaacharya/master/assets/developer.gif" width="30px"> I'm in ❤️ with . . .
 
 **🌐 Languages:**
+
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>  <code><img height="30" src="https://cdn.discordapp.com/emojis/230394175080628234.png?v=1"></code>  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png"></code>
 
 **📚 Frameworks/Libraries:**
+
 <code><img height="30" src="https://cdn.discordapp.com/emojis/586438523796848640.png?v=1"></code>  <code><img height="30" src="https://cdn.discordapp.com/emojis/761974754122924054.gif?v=1"></code>  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>  <code><img height="30" src="https://cdn.discordapp.com/attachments/748808131865215004/772148850873335808/68747470733a2f2f33396e74627236672e6d656469612e7a65737479696f2e636f6d2f62756c6d612d6c6f676f2e66316362.png"></code>
 
 **🛠️ Tools:**
+
 <code><img height="30" src="https://cdn.discordapp.com/attachments/748808131865215004/772150093624508436/code512.png"></code>  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>  <code><img height="30" src="https://cdn.discordapp.com/attachments/748808131865215004/772151679042322532/gwt-cloud-awslogo2-300x249.jpg"></code>  <code><img height="30" src="https://cdn.discordapp.com/attachments/748808131865215004/772152060699213824/apple-icon.png"></code>
 
 **📫 Connect via**
+
 <code><a href ="https://arindamz.github.io"><img height="30" src="https://cdn.discordapp.com/attachments/748808131865215004/772161695601655898/PicsArt_10-31-11.37.16.png"></code>  <code><a href ="https://github.com/XynoxTheDev"><img height="30" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>  <code><a href ="https://discord.gg/ZzbZpdw"><img height="30" src="https://cdn.discordapp.com/attachments/734783680366641314/735153539814522943/discord.png"></code>  <code><a href ="https://www.patreon.com/arindamz"><img height="30" src="https://cdn.discordapp.com/attachments/648738733285441609/771260991648432168/images.png"></code>   <code><a href ="https://www.youtube.com/channel/UCLAiaWy_tuhP8jEwp7iA4FA"><img height="30" src="https://cdn.discordapp.com/emojis/753977130077126708.png?v=1"></code>  <code><a href ="https://twitter.com/Arindamz03"><img height="30" src="https://cdn.discordapp.com/emojis/753977189359288430.png?v=1"></code>  <code><a href ="https://www.instagram.com/xynoxthedev"><img height="30" src="https://cdn.discordapp.com/attachments/711225617206476920/735528211588448337/instagram.jpg"></code>
 
 [<img src="https://cdn.discordapp.com/attachments/638624243390611466/735122949832704040/xynox-banner.png">](https://arindamz.github.io/)
