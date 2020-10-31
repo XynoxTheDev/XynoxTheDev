@@ -16,7 +16,7 @@ I'm Arindam aka Xynox. I'm a passionate developer making awesome things for tons
 - Discord - [Arindamz](https://discord.gg/ZzbZpdw/) 
 - My GitHub Statistics -
 
-![Arindam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=XynoxTheDev&hide=["stars"]&show_icons=true)
+![Arindam GitHub Stats](https://github-readme-stats.vercel.app/api?username=XynoxTheDev&hide=["stars"]&show_icons=true)
 
 ### Programming Languages 🌐
 
@@ -51,4 +51,15 @@ You can find and get touch with me on these accounts!
 
 [<img src="https://cdn.discordapp.com/attachments/638624243390611466/735122949832704040/xynox-banner.png">](https://arindamz.github.io/)
 
-**A Big Thanks To [Swastik Baranwal](https://github.com/Delta456) ❤️ For This README**
+> **A Big Thanks To [Swastik Baranwal](https://github.com/Delta456) ❤️ For This README**
+> Provided by [`GitHub Readme Stats`]
+
+[Discord]:               https://discord.com
+[Dirigeants]:            https://github.com/dirigeants
+[Veza]:                  https://github.com/kyranet/veza
+[Skyra Project]:         https://github.com/skyra-project
+[Skyra]:                 https://github.com/skyra-project/skyra
+[Twitter]:               https://twitter.com
+[my Discord server]:     https://join.skyra.pw
+[tweeting at me]:        https://twitter.com/kyranet_
+[`GitHub Readme Stats`]: https://github.com/anuraghazra/github-readme-stats
