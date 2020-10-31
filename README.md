@@ -12,15 +12,17 @@ distributed under the License is distributed on an "AS IS" BASIS,
     See the License for the specific language governing permissions and
 limitations under the License.
 -->
-### Heyo Fam 😄
+### Heyo Fam <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="20px">
 
 I'm Arindam Hazra. You can call me Xynox if you want, or you can call me Arindamz. I'm a passionate developer making awesome things for tons of smiling faces. I like making things, especially things that help or entertain others. I spend my free time writing software, singing, making code more efficient or succinct, and occasionally playing video games.
 
 ### Current Status 
 
 <img src="https://komarev.com/ghpvc/?username=XynoxTheDev" alt="XynoxTheDev" />
-<!-- ![](https://img.shields.io/endpoint?label=currently&url=https://dev.discordprofiles.me/api/badge/status/594853883742912512?simple=true) ![](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/594853883742912512?vscode=false) ![](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/594853883742912512) ![](https://api.spotify.com/v1/users/zrei8evwinfjy9d27fjon68hh)
----> 
+
+<!--
+![](https://img.shields.io/endpoint?label=currently&url=https://dev.discordprofiles.me/api/badge/status/594853883742912512?simple=true) ![](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/594853883742912512?vscode=false) ![](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/594853883742912512) ![](https://api.spotify.com/v1/users/zrei8evwinfjy9d27fjon68hh)
+--->
  
 ### About me 👨‍
 
