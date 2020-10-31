@@ -11,8 +11,9 @@ I'm Arindam aka Xynox. I'm a passionate developer making awesome things for tons
 ### About me 👨‍
 
 - Email - workforxynox@gmail.com
-- Location - India.
-- Discord Bio - [Xynox#0117](https://discord.bio/p/xynox) 
+- Website - [Xynox The Dev](https://arindamz.github.io/)
+- Location - India
+- Discord Bio - [Xynox#0117](https://discord.com/) 
 - My GitHub Statistics -
 
 ![Arindam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=XynoxTheDev&hide=["stars"]&show_icons=true)
