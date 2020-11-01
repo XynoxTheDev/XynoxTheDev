@@ -12,7 +12,7 @@ distributed under the License is distributed on an "AS IS" BASIS,
     See the License for the specific language governing permissions and
 limitations under the License.
 -->
-### Heyo Fam <img src="https://cdn.discordapp.com/emojis/400248103313211392.gif?v=1" width="20px">
+### Heyo Fam <img src="https://cdn.discordapp.com/emojis/400248103313211392.gif?v=1" width="80px">
 <img align="right" src="https://raw.githubusercontent.com/adarshaacharya/adarshaacharya/master/assets/octocat-anime.gif"/>
 
 
