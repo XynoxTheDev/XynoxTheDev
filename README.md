@@ -52,6 +52,7 @@ I'm Arindam Hazra. You can call me Xynox if you want, or you can call me Arindam
 
 <code><a href ="https://arindamz.github.io"><img height="30" src="https://cdn.discordapp.com/attachments/748808131865215004/772161695601655898/PicsArt_10-31-11.37.16.png"></code>  <code><a href ="https://github.com/XynoxTheDev"><img height="30" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>  <code><a href ="https://discord.gg/ZzbZpdw"><img height="30" src="https://cdn.discordapp.com/attachments/734783680366641314/735153539814522943/discord.png"></code>  <code><a href ="https://www.patreon.com/arindamz"><img height="30" src="https://cdn.discordapp.com/attachments/648738733285441609/771260991648432168/images.png"></code>   <code><a href ="https://www.youtube.com/channel/UCLAiaWy_tuhP8jEwp7iA4FA"><img height="30" src="https://cdn.discordapp.com/emojis/753977130077126708.png?v=1"></code>  <code><a href ="https://twitter.com/Arindamz03"><img height="30" src="https://cdn.discordapp.com/emojis/753977189359288430.png?v=1"></code>  <code><a href ="https://www.instagram.com/xynoxthedev"><img height="30" src="https://cdn.discordapp.com/attachments/711225617206476920/735528211588448337/instagram.jpg"></code>
 
+<!--
 [<img src="https://cdn.discordapp.com/attachments/638624243390611466/735122949832704040/xynox-banner.png">](https://arindamz.github.io/)
 <div align="center">
 	<br>
@@ -59,3 +60,4 @@ I'm Arindam Hazra. You can call me Xynox if you want, or you can call me Arindam
 	<p>Loading</p>
 	<br>
 </div>
+--->
