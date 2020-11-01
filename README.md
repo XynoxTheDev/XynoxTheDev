@@ -12,7 +12,8 @@ distributed under the License is distributed on an "AS IS" BASIS,
     See the License for the specific language governing permissions and
 limitations under the License.
 -->
-### Heyo Fam <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="20px">
+### <img src="https://cdn.discordapp.com/emojis/400248103313211392.gif" width="40px"> Heyo Fam 
+
 <img align="right" src="https://cdn.discordapp.com/attachments/648738733285441609/772350422743908362/octocat-anime.gif"/>
 
 
