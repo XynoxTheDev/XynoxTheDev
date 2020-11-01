@@ -31,7 +31,9 @@ I'm Arindam Hazra. You can call me Xynox if you want, or you can call me Arindam
 * Location - India
 * Discord - [Arindamz](https://discord.gg/ZzbZpdw/) 
 * Some Statistics -
+
 ![Xynox's Github Statistics](https://github-readme-stats.vercel.app/api?username=XynoxTheDev&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
+
 ## <img src="https://cdn.discordapp.com/attachments/648738733285441609/772351043837231114/developer.gif" width="50px"> I'm in ❤️ with . . .
 
 **Languages:**
