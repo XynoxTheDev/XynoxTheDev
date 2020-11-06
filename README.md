@@ -12,6 +12,8 @@ distributed under the License is distributed on an "AS IS" BASIS,
     See the License for the specific language governing permissions and
 limitations under the License.
 -->
+[<img src="https://cdn.discordapp.com/attachments/638624243390611466/735122949832704040/xynox-banner.png">](https://arindamz.github.io/)
+
 ### <img src="https://cdn.discordapp.com/emojis/400248103313211392.gif" width="40px"> Heyo Fam 
 
 <img align="right" src="https://cdn.discordapp.com/attachments/648738733285441609/772350422743908362/octocat-anime.gif"/>
@@ -29,9 +31,6 @@ I'm Arindam Hazra. You can call me Xynox if you want, or you can call me Arindam
 * Website - [Xynox The Dev](https://arindamz.github.io/)
 * Location - India
 * Discord - [Arindamz](https://discord.gg/ZzbZpdw/) 
-* Some Statistics -
-
-![Xynox's Github Statistics](https://github-readme-stats.vercel.app/api?username=XynoxTheDev&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
 
 ## <img src="https://cdn.discordapp.com/attachments/648738733285441609/772351043837231114/developer.gif" width="50px"> I'm in ❤️ with . . .
 
@@ -51,7 +50,10 @@ I'm Arindam Hazra. You can call me Xynox if you want, or you can call me Arindam
 
 <code><a href ="https://arindamz.github.io"><img height="30" src="https://cdn.discordapp.com/attachments/748808131865215004/772161695601655898/PicsArt_10-31-11.37.16.png"></code> <code><a href ="https://github.com/XynoxTheDev"><img height="30" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code> <code><a href ="https://discord.gg/ZzbZpdw"><img height="30" src="https://cdn.discordapp.com/attachments/734783680366641314/735153539814522943/discord.png"></code> <code><a href ="https://www.patreon.com/arindamz"><img height="30" src="https://cdn.discordapp.com/attachments/648738733285441609/771260991648432168/images.png"></code> <code><a href ="https://www.youtube.com/channel/UCLAiaWy_tuhP8jEwp7iA4FA"><img height="30" src="https://cdn.discordapp.com/emojis/753977130077126708.png?v=1"></code> <code><a href ="https://twitter.com/Arindamz03"><img height="30" src="https://cdn.discordapp.com/emojis/753977189359288430.png?v=1"></code> <code><a href ="https://www.instagram.com/xynoxthedev"><img height="30" src="https://cdn.discordapp.com/attachments/711225617206476920/735528211588448337/instagram.jpg"></code>
 
-[<img src="https://cdn.discordapp.com/attachments/638624243390611466/735122949832704040/xynox-banner.png">](https://arindamz.github.io/)
+### Some Statistics -
+
+![Xynox's Github Statistics](https://github-readme-stats.vercel.app/api?username=XynoxTheDev&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
+
 > Provided by [`GitHub Readme Stats`](https://github.com/anuraghazra/github-readme-stats).
 <!--
 <div align="center">
