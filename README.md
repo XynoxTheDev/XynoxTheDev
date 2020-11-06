@@ -20,7 +20,7 @@ limitations under the License.
 I'm Arindam Hazra. You can call me Xynox if you want, or you can call me Arindamz. I'm a passionate developer making awesome things for tons of smiling faces. I like making things, especially things that help or entertain others. I spend my free time writing software, singing, making code more efficient or succinct, and occasionally playing video games.
 
 ### Current Status 
-![Profile Views](https://komarev.com/ghpvc/?username=XynoxTheDev) ![](https://img.shields.io/endpoint?label=Status&url=https://dev.discordprofiles.me/api/badge/status/621764740573560842?simple=true&logo=discord&logoColor=white&color=43B581) ![](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/621764740573560842?vscode=false) ![](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/621764740573560842) ![](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/621764740573560842) 
+![Profile Views](https://komarev.com/ghpvc/?username=XynoxTheDev) ![](https://img.shields.io/endpoint?label=Status&url=https://dev.discordprofiles.me/api/badge/status/594853883742912512?simple=true&logo=discord&logoColor=white&color=43B581) ![](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/594853883742912512?vscode=false) ![](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/594853883742912512) ![](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/594853883742912512) 
 
 ### About me 👨‍
 * Email - workforxynox@gmail.com
