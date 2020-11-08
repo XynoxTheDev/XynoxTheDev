@@ -23,8 +23,11 @@ I'm Arindam Hazra. You can call me Xynox if you want, or you can call me Arindam
 
 ### Current Status 
 ![Profile Views](https://komarev.com/ghpvc/?username=XynoxTheDev) 
-![](https://img.shields.io/endpoint?label=Status&url=https://dev.discordprofiles.me/api/badge/status/594853883742912512?simple=true&logo=discord&logoColor=white&color=43B581) ![](https://img.shields.io/endpoint?label=Playing&url=https://dev.discordprofiles.me/api/badge/playing/594853883742912512?vscode=false&logo=nintendo-switch&color=8A96E9)
-![](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/594853883742912512) ![](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/594853883742912512) 
+![Status](https://img.shields.io/endpoint?label=Status&url=https://dev.discordprofiles.me/api/badge/status/594853883742912512?simple=true&logo=discord&logoColor=white&color=43B581) 
+![Playing](https://img.shields.io/endpoint?label=Playing&url=https://dev.discordprofiles.me/api/badge/playing/594853883742912512?vscode=false&logo=nintendo-switch&color=8A96E9) 
+![intellij](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/intellij/190916650143318016)
+![Visual Studio Code](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/594853883742912512) 
+![Spotify](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/594853883742912512) 
 
 ### About me 👨‍
 * Email - workforxynox@gmail.com
