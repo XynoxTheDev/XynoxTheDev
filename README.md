@@ -54,9 +54,9 @@ I'm Arindam Hazra. You can call me Xynox if you want, or you can call me Arindam
 </div>
 <hr>
 <!--Github Readme Stats-->
-<div align = "left">
+<div align = "center">
 
 #### <i> GitHub Readme Stats </i>
 <img src = "https://github-readme-stats.vercel.app/api?username=XynoxTheDev&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff"> 
-<img width="px" align="right" src="https://cdn.discordapp.com/attachments/648738733285441609/772350422743908362/octocat-anime.gif"/>
+
 </div>
