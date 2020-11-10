@@ -24,7 +24,7 @@ I'm Arindam Hazra. You can call me Xynox if you want, or you can call me Arindam
 
 <!--Current Status-->
 
-### <i> About </i>
+### <i> Live Stats </i>
 
 <img src = "https://komarev.com/ghpvc/?username=XynoxTheDev&style=flat-square"> 
 <img src = "https://img.shields.io/endpoint?label=Status&url=https://dev.discordprofiles.me/api/badge/status/594853883742912512?simple=true&logo=discord&logoColor=white&color=43B581&style=flat-square"> 
@@ -37,7 +37,7 @@ I'm Arindam Hazra. You can call me Xynox if you want, or you can call me Arindam
 <div align = "center">
 <!--Programming lanuages and tools-->
 
-#### <i> Programming Languages and Tools </i>
+### <i> Programming Languages and Tools </i>
 
 <img width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 <img width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
@@ -56,7 +56,7 @@ I'm Arindam Hazra. You can call me Xynox if you want, or you can call me Arindam
 <!--Github Readme Stats-->
 <div align = "center">
 
-#### <i> GitHub Readme Stats </i>
+### <i> GitHub Readme Stats </i>
 <img src = "https://github-readme-stats.vercel.app/api?username=XynoxTheDev&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff"> 
 
 </div>
