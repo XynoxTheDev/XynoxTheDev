@@ -17,7 +17,7 @@ limitations under the License.
 
 <div align = "center">
 
-I'm Arindam Hazra. You can call me Xynox if you want, or you can call me Arindamz. I'm a passionate developer making awesome things for tons of smiling faces. I like making things, especially things that help or entertain others. I spend my free time writing software, singing, making code more efficient or succinct, and occasionally playing video games.
+**I'm Arindam Hazra. You can call me Xynox if you want, or you can call me Arindamz. I'm a passionate developer making awesome things for tons of smiling faces. I like making things, especially things that help or entertain others. I spend my free time writing software, singing, making code more efficient or succinct, and occasionally playing video games.**
 </div>
 <hr>
 <div align = "center">
