@@ -17,14 +17,14 @@ limitations under the License.
 
 <div align = "center">
 
-**I'm Arindam Hazra. You can call me Xynox if you want, or you can call me Arindamz. I like making things, especially things that help or entertain others. I spend my free time writing software, singing, making code more efficient or succinct, and occasionally playing video games.**
+I'm Arindam Hazra. You can call me Xynox if you want, or you can call me Arindamz. I'm a passionate developer making awesome things for tons of smiling faces. I like making things, especially things that help or entertain others. I spend my free time writing software, singing, making code more efficient or succinct, and occasionally playing video games.
 </div>
 <hr>
 <div align = "center">
 
 <!--Current Status-->
 
-<b> <i> About </i> </b>
+### <i> About </i>
 
 <img src = "https://komarev.com/ghpvc/?username=XynoxTheDev&style=flat-square"> 
 <img src = "https://img.shields.io/endpoint?label=status&url=https://dev.discordprofiles.me/api/badge/status/594853883742912512&logo=discord&logoColor=white&style=flat-square"> 
@@ -37,7 +37,7 @@ limitations under the License.
 <div align = "center">
 <!--Programming lanuages and tools-->
 
-<b> <i> Programming Languages and Tools </i> </b>
+#### <i> Programming Languages and Tools </i>
 
 <img width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 <img width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
@@ -56,8 +56,9 @@ limitations under the License.
 <!--Github Readme Stats-->
 <div align = "center">
 
-<b> <i> GitHub Readme Stats </i> </b>
-
+#### <i> GitHub Readme Stats </i>
 <img src = "https://github-readme-stats.vercel.app/api?username=XynoxTheDev&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff"> 
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XynoxTheDev&layout=compact&langs_count=8&&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff">
 
 </div>
