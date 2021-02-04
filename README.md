@@ -22,6 +22,8 @@ I'm Arindam Hazra. You can call me Xynox if you want, or you can call me Arindam
 </div>
 <hr>
 <div align = "center">
+
+<div align = "center">
 <!--Programming lanuages and tools-->
 
 #### <i> Programming Languages and Tools </i>
@@ -35,15 +37,18 @@ I'm Arindam Hazra. You can call me Xynox if you want, or you can call me Arindam
 <img width="35px" src="https://cdn.discordapp.com/attachments/748808131865215004/772150093624508436/code512.png">
 </div>
 <hr>
-<div align = "center">
 <!--Statistick-->
+<div align = "center">
 
 #### <i> My Statistics </i>
-![]()
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=XynoxTheDev&theme=dark&hide_border=true">
+![](https://github-readme-streak-stats.herokuapp.com/?user=XynoxTheDev&theme=dark&hide_border=true)
 <img src = "https://github-readme-stats.vercel.app/api?username=XynoxTheDev&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dark"> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XynoxTheDev&layout=compact&langs_count=8&hide_border=true&theme=dark">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=zrei8evwinfjy9d27fjon68hh&cover_image=false&theme=default">
+</div>
+<!--Statistick 2-->
+<div align = "center">
+
+![](https://spotify-github-profile.vercel.app/api/view?uid=zrei8evwinfjy9d27fjon68hh&cover_image=false&theme=default)
 <img src = "https://komarev.com/ghpvc/?username=XynoxTheDev&style=flat-square"> <img src = "https://img.shields.io/endpoint?label=status&url=https://dev.discordprofiles.me/api/badge/status/594853883742912512&logo=discord&logoColor=white&style=flat-square"> <img src = "https://img.shields.io/endpoint?label=Playing&url=https://dev.discordprofiles.me/api/badge/playing/594853883742912512?vscode=false&logo=nintendo-switch&color=8A96E9&style=flat-square"> <img src = "https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/594853883742912512&style=flat-square"> <img src = "https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/intellij/594853883742912512"> <img src = "https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/594853883742912512&style=flat-square"> 
 
 </div>
