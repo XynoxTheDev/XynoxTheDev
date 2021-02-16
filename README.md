@@ -25,7 +25,6 @@ I'm Arindam Hazra. You can call me Xynox if you want, or you can call me Arindam
 
 <hr>
 
-<!--Programming lanuages and tools-->
 
 #### <i> Programming Languages and Tools </i>
 <img width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -39,7 +38,6 @@ I'm Arindam Hazra. You can call me Xynox if you want, or you can call me Arindam
 
 <hr>
 
-<!--Statistick-->
 
 #### *My Statistics*
 ![](https://github-readme-streak-stats.herokuapp.com/?user=XynoxTheDev&theme=dark&hide_border=true)
@@ -47,7 +45,6 @@ I'm Arindam Hazra. You can call me Xynox if you want, or you can call me Arindam
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=XynoxTheDev&layout=compact&langs_count=8&hide_border=true&theme=dark)
 
 
-<!--Statistick 2-->
 
 ![](https://spotify-github-profile.vercel.app/api/view?uid=zrei8evwinfjy9d27fjon68hh&cover_image=false&theme=default)
 
