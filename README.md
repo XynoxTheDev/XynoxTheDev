@@ -38,6 +38,9 @@ I'm Arindam Hazra. You can call me Xynox if you want, or you can call me Arindam
 
 <hr>
 
+### :zap: Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 #### *My Statistics*
 ![](https://github-readme-streak-stats.herokuapp.com/?user=XynoxTheDev&theme=dark&hide_border=true)
