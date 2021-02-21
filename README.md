@@ -26,7 +26,7 @@ I'm Arindam Hazra. You can call me Xynox if you want, or you can call me Arindam
 <hr>
 
 
-### :hammer_pick: Programming Languages and Tools
+### ⚒️ Programming Languages and Tools
 <img width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img width="35px" src="https://cdn.discordapp.com/emojis/230394175080628234.png?v=1" />
@@ -47,7 +47,7 @@ I'm Arindam Hazra. You can call me Xynox if you want, or you can call me Arindam
 5. 🎉 Merged PR [#60](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect/pull/60) in [Dude-Perfect-Discord-Bot/Dude-Perfect](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect)
 <!--END_SECTION:activity-->
 
-### :bookmark: My Statistics
+### 🔖 My Statistics
 ![](https://github-readme-streak-stats.herokuapp.com/?user=XynoxTheDev&theme=dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api?username=XynoxTheDev&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dark)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=XynoxTheDev&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=dark)
