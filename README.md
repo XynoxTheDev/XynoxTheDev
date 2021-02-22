@@ -40,11 +40,11 @@ I'm Arindam Hazra. You can call me Xynox if you want, or you can call me Arindam
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#68](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect/pull/68) in [Dude-Perfect-Discord-Bot/Dude-Perfect](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect)
-2. 🎉 Merged PR [#65](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect/pull/65) in [Dude-Perfect-Discord-Bot/Dude-Perfect](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect)
-3. 🎉 Merged PR [#66](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect/pull/66) in [Dude-Perfect-Discord-Bot/Dude-Perfect](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect)
-4. 🎉 Merged PR [#1](https://github.com/XynoxTheDev/XynoxTheDev/pull/1) in [XynoxTheDev/XynoxTheDev](https://github.com/XynoxTheDev/XynoxTheDev)
-5. 🎉 Merged PR [#64](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect/pull/64) in [Dude-Perfect-Discord-Bot/Dude-Perfect](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect)
+1. 🎉 Merged PR [#31](https://github.com/XynoxTheDev/godfather/pull/31) in [XynoxTheDev/godfather](https://github.com/XynoxTheDev/godfather)
+2. 🎉 Merged PR [#68](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect/pull/68) in [Dude-Perfect-Discord-Bot/Dude-Perfect](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect)
+3. 🎉 Merged PR [#65](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect/pull/65) in [Dude-Perfect-Discord-Bot/Dude-Perfect](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect)
+4. 🎉 Merged PR [#66](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect/pull/66) in [Dude-Perfect-Discord-Bot/Dude-Perfect](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect)
+5. 🎉 Merged PR [#1](https://github.com/XynoxTheDev/XynoxTheDev/pull/1) in [XynoxTheDev/XynoxTheDev](https://github.com/XynoxTheDev/XynoxTheDev)
 <!--END_SECTION:activity-->
 
 ### 🔖 My Statistics
