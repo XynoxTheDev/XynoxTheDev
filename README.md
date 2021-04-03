@@ -40,11 +40,11 @@ I'm Arindam Hazra. You can call me Xynox if you want, or you can call me Arindam
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#74](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect/pull/74) in [Dude-Perfect-Discord-Bot/Dude-Perfect](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect)
-2. 🎉 Merged PR [#73](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect/pull/73) in [Dude-Perfect-Discord-Bot/Dude-Perfect](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect)
-3. 🎉 Merged PR [#112](https://github.com/XynoxTheDev/skyra/pull/112) in [XynoxTheDev/skyra](https://github.com/XynoxTheDev/skyra)
-4. 🎉 Merged PR [#72](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect/pull/72) in [Dude-Perfect-Discord-Bot/Dude-Perfect](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect)
-5. ❗️ Opened issue [#242](https://github.com/skyra-project/skyra.pw/issues/242) in [skyra-project/skyra.pw](https://github.com/skyra-project/skyra.pw)
+1. 🎉 Merged PR [#77](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect/pull/77) in [Dude-Perfect-Discord-Bot/Dude-Perfect](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect)
+2. 🎉 Merged PR [#78](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect/pull/78) in [Dude-Perfect-Discord-Bot/Dude-Perfect](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect)
+3. 🎉 Merged PR [#74](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect/pull/74) in [Dude-Perfect-Discord-Bot/Dude-Perfect](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect)
+4. 🎉 Merged PR [#73](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect/pull/73) in [Dude-Perfect-Discord-Bot/Dude-Perfect](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect)
+5. 🎉 Merged PR [#112](https://github.com/XynoxTheDev/skyra/pull/112) in [XynoxTheDev/skyra](https://github.com/XynoxTheDev/skyra)
 <!--END_SECTION:activity-->
 
 ### 🔖 My Statistics
