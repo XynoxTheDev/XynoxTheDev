@@ -31,6 +31,7 @@ I'm Arindam Hazra. You can call me Xynox if you want, or you can call me Arindam
 <img width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img width="35px" src="https://cdn.discordapp.com/emojis/230394175080628234.png?v=1" />
 <img width="35px" src="https://cdn.discordapp.com/emojis/754345492854472706.gif?v=1" />
+<img width="35px" src="https://cdn.discordapp.com/emojis/754345609384951940.gif?v=1" />
 <img width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img width="35px" src="https://cdn.discordapp.com/emojis/740222847586271383.png?v=1" />
