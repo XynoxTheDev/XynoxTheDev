@@ -27,16 +27,16 @@ I'm Arindam Hazra. You can call me Xynox if you want, or you can call me Arindam
 
 
 ### ⚒️ Programming Languages and Tools
-<img width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+<img width="35px" src="https://cdn.discordapp.com/emojis/813907629989691442.png?v=1" />
+<img width="35px" src="https://cdn.discordapp.com/emojis/813907670176104478.png?v=1" />
 <img width="35px" src="https://cdn.discordapp.com/emojis/230394175080628234.png?v=1" />
-<img width="35px" src="https://cdn.discordapp.com/emojis/754345492854472706.gif?v=1" />
+<img width="35px" src="https://cdn.discordapp.com/emojis/813908546852880405.png?v=1" />
 <img width="35px" src="https://cdn.discordapp.com/emojis/754345609384951940.gif?v=1" />
-<img width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img width="35px" src="https://cdn.discordapp.com/emojis/813909686449078353.png?v=1" />
+<img width="35px" src="https://cdn.discordapp.com/emojis/813909685542584321.png?v=1" />
 <img width="35px" src="https://cdn.discordapp.com/emojis/740222847586271383.png?v=1" />
 <img width="35px" src="https://cdn.discordapp.com/emojis/761974754122924054.gif?v=1" />
-<img width="35px" src="https://cdn.discordapp.com/attachments/748808131865215004/772150093624508436/code512.png" />
+<img width="35px" src="https://cdn.discordapp.com/emojis/754345273328664676.gif?v=1" />
 
 <hr>
 
