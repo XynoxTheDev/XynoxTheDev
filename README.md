@@ -42,11 +42,11 @@ I'm Arindam Hazra. You can call me Xynox if you want, or you can call me Arindam
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#81](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect/pull/81) in [Dude-Perfect-Discord-Bot/Dude-Perfect](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect)
-2. 🎉 Merged PR [#80](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect/pull/80) in [Dude-Perfect-Discord-Bot/Dude-Perfect](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect)
-3. 🎉 Merged PR [#79](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect/pull/79) in [Dude-Perfect-Discord-Bot/Dude-Perfect](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect)
-4. 🎉 Merged PR [#77](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect/pull/77) in [Dude-Perfect-Discord-Bot/Dude-Perfect](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect)
-5. 🎉 Merged PR [#78](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect/pull/78) in [Dude-Perfect-Discord-Bot/Dude-Perfect](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect)
+1. 🎉 Merged PR [#83](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect/pull/83) in [Dude-Perfect-Discord-Bot/Dude-Perfect](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect)
+2. 🎉 Merged PR [#82](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect/pull/82) in [Dude-Perfect-Discord-Bot/Dude-Perfect](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect)
+3. 🎉 Merged PR [#81](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect/pull/81) in [Dude-Perfect-Discord-Bot/Dude-Perfect](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect)
+4. 🎉 Merged PR [#80](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect/pull/80) in [Dude-Perfect-Discord-Bot/Dude-Perfect](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect)
+5. 🎉 Merged PR [#79](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect/pull/79) in [Dude-Perfect-Discord-Bot/Dude-Perfect](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect)
 <!--END_SECTION:activity-->
 
 ### 🔖 My Statistics
