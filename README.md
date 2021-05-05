@@ -42,11 +42,11 @@ I'm Arindam Hazra. You can call me Xynox if you want, or you can call me Arindam
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#85](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect/pull/85) in [Dude-Perfect-Discord-Bot/Dude-Perfect](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect)
-2. 🗣 Commented on [#85](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect/issues/85) in [Dude-Perfect-Discord-Bot/Dude-Perfect](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect)
-3. 🎉 Merged PR [#5](https://github.com/Dude-Perfect-Discord-Bot/Type-Racer/pull/5) in [Dude-Perfect-Discord-Bot/Type-Racer](https://github.com/Dude-Perfect-Discord-Bot/Type-Racer)
-4. 🎉 Merged PR [#3](https://github.com/Dude-Perfect-Discord-Bot/Type-Racer/pull/3) in [Dude-Perfect-Discord-Bot/Type-Racer](https://github.com/Dude-Perfect-Discord-Bot/Type-Racer)
-5. 🎉 Merged PR [#4](https://github.com/Dude-Perfect-Discord-Bot/Type-Racer/pull/4) in [Dude-Perfect-Discord-Bot/Type-Racer](https://github.com/Dude-Perfect-Discord-Bot/Type-Racer)
+1. 🎉 Merged PR [#91](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect/pull/91) in [Dude-Perfect-Discord-Bot/Dude-Perfect](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect)
+2. 💪 Opened PR [#91](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect/pull/91) in [Dude-Perfect-Discord-Bot/Dude-Perfect](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect)
+3. ❌ Closed PR [#85](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect/pull/85) in [Dude-Perfect-Discord-Bot/Dude-Perfect](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect)
+4. 🗣 Commented on [#85](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect/issues/85) in [Dude-Perfect-Discord-Bot/Dude-Perfect](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect)
+5. 🎉 Merged PR [#5](https://github.com/Dude-Perfect-Discord-Bot/Type-Racer/pull/5) in [Dude-Perfect-Discord-Bot/Type-Racer](https://github.com/Dude-Perfect-Discord-Bot/Type-Racer)
 <!--END_SECTION:activity-->
 
 ### 🔖 My Statistics
