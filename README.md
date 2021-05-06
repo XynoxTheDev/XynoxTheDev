@@ -42,11 +42,11 @@ I'm Arindam Hazra. You can call me Xynox if you want, or you can call me Arindam
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/Dude-Perfect-Discord-Bot/Type-Racer/pull/6) in [Dude-Perfect-Discord-Bot/Type-Racer](https://github.com/Dude-Perfect-Discord-Bot/Type-Racer)
-2. 🎉 Merged PR [#97](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect/pull/97) in [Dude-Perfect-Discord-Bot/Dude-Perfect](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect)
-3. 🎉 Merged PR [#91](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect/pull/91) in [Dude-Perfect-Discord-Bot/Dude-Perfect](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect)
-4. 💪 Opened PR [#91](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect/pull/91) in [Dude-Perfect-Discord-Bot/Dude-Perfect](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect)
-5. ❌ Closed PR [#85](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect/pull/85) in [Dude-Perfect-Discord-Bot/Dude-Perfect](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect)
+1. 💪 Opened PR [#99](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect/pull/99) in [Dude-Perfect-Discord-Bot/Dude-Perfect](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect)
+2. 🎉 Merged PR [#6](https://github.com/Dude-Perfect-Discord-Bot/Type-Racer/pull/6) in [Dude-Perfect-Discord-Bot/Type-Racer](https://github.com/Dude-Perfect-Discord-Bot/Type-Racer)
+3. 🎉 Merged PR [#97](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect/pull/97) in [Dude-Perfect-Discord-Bot/Dude-Perfect](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect)
+4. 🎉 Merged PR [#91](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect/pull/91) in [Dude-Perfect-Discord-Bot/Dude-Perfect](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect)
+5. 💪 Opened PR [#91](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect/pull/91) in [Dude-Perfect-Discord-Bot/Dude-Perfect](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect)
 <!--END_SECTION:activity-->
 
 ### 🔖 My Statistics
