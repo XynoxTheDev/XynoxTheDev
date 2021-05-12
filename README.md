@@ -42,11 +42,11 @@ I'm Arindam Hazra. You can call me Xynox if you want, or you can call me Arindam
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#102](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect/issues/102) in [Dude-Perfect-Discord-Bot/Dude-Perfect](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect)
-2. ❗️ Closed issue [#96](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect/issues/96) in [Dude-Perfect-Discord-Bot/Dude-Perfect](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect)
-3. ❗️ Closed issue [#95](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect/issues/95) in [Dude-Perfect-Discord-Bot/Dude-Perfect](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect)
-4. ❗️ Closed issue [#94](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect/issues/94) in [Dude-Perfect-Discord-Bot/Dude-Perfect](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect)
-5. ❗️ Closed issue [#93](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect/issues/93) in [Dude-Perfect-Discord-Bot/Dude-Perfect](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect)
+1. 🎉 Merged PR [#8](https://github.com/Dude-Perfect-Discord-Bot/Type-Racer/pull/8) in [Dude-Perfect-Discord-Bot/Type-Racer](https://github.com/Dude-Perfect-Discord-Bot/Type-Racer)
+2. 🎉 Merged PR [#9](https://github.com/Dude-Perfect-Discord-Bot/Type-Racer/pull/9) in [Dude-Perfect-Discord-Bot/Type-Racer](https://github.com/Dude-Perfect-Discord-Bot/Type-Racer)
+3. 💪 Opened PR [#9](https://github.com/Dude-Perfect-Discord-Bot/Type-Racer/pull/9) in [Dude-Perfect-Discord-Bot/Type-Racer](https://github.com/Dude-Perfect-Discord-Bot/Type-Racer)
+4. 🗣 Commented on [#102](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect/issues/102) in [Dude-Perfect-Discord-Bot/Dude-Perfect](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect)
+5. ❗️ Closed issue [#96](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect/issues/96) in [Dude-Perfect-Discord-Bot/Dude-Perfect](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect)
 <!--END_SECTION:activity-->
 
 ### 🔖 My Statistics
