@@ -42,11 +42,11 @@ I'm Arindam Hazra. You can call me Xynox if you want, or you can call me Arindam
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/advaith1/activities/issues/2) in [advaith1/activities](https://github.com/advaith1/activities)
-2. 🎉 Merged PR [#8](https://github.com/Dude-Perfect-Discord-Bot/Type-Racer/pull/8) in [Dude-Perfect-Discord-Bot/Type-Racer](https://github.com/Dude-Perfect-Discord-Bot/Type-Racer)
-3. 🎉 Merged PR [#9](https://github.com/Dude-Perfect-Discord-Bot/Type-Racer/pull/9) in [Dude-Perfect-Discord-Bot/Type-Racer](https://github.com/Dude-Perfect-Discord-Bot/Type-Racer)
-4. 💪 Opened PR [#9](https://github.com/Dude-Perfect-Discord-Bot/Type-Racer/pull/9) in [Dude-Perfect-Discord-Bot/Type-Racer](https://github.com/Dude-Perfect-Discord-Bot/Type-Racer)
-5. 🗣 Commented on [#102](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect/issues/102) in [Dude-Perfect-Discord-Bot/Dude-Perfect](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect)
+1. 🗣 Commented on [#102](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect/issues/102) in [Dude-Perfect-Discord-Bot/Dude-Perfect](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect)
+2. ❗️ Opened issue [#2](https://github.com/advaith1/activities/issues/2) in [advaith1/activities](https://github.com/advaith1/activities)
+3. 🎉 Merged PR [#8](https://github.com/Dude-Perfect-Discord-Bot/Type-Racer/pull/8) in [Dude-Perfect-Discord-Bot/Type-Racer](https://github.com/Dude-Perfect-Discord-Bot/Type-Racer)
+4. 🎉 Merged PR [#9](https://github.com/Dude-Perfect-Discord-Bot/Type-Racer/pull/9) in [Dude-Perfect-Discord-Bot/Type-Racer](https://github.com/Dude-Perfect-Discord-Bot/Type-Racer)
+5. 💪 Opened PR [#9](https://github.com/Dude-Perfect-Discord-Bot/Type-Racer/pull/9) in [Dude-Perfect-Discord-Bot/Type-Racer](https://github.com/Dude-Perfect-Discord-Bot/Type-Racer)
 <!--END_SECTION:activity-->
 
 ### 🔖 My Statistics
