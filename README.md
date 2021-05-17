@@ -42,11 +42,11 @@ I'm Arindam Hazra. You can call me Xynox if you want, or you can call me Arindam
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#107](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect/issues/107) in [Dude-Perfect-Discord-Bot/Dude-Perfect](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect)
-2. ❗️ Closed issue [#112](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect/issues/112) in [Dude-Perfect-Discord-Bot/Dude-Perfect](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect)
-3. 🗣 Commented on [#112](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect/issues/112) in [Dude-Perfect-Discord-Bot/Dude-Perfect](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect)
-4. ❗️ Opened issue [#112](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect/issues/112) in [Dude-Perfect-Discord-Bot/Dude-Perfect](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect)
-5. ❗️ Opened issue [#106](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect/issues/106) in [Dude-Perfect-Discord-Bot/Dude-Perfect](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect)
+1. ❗️ Closed issue [#108](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect/issues/108) in [Dude-Perfect-Discord-Bot/Dude-Perfect](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect)
+2. 🗣 Commented on [#107](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect/issues/107) in [Dude-Perfect-Discord-Bot/Dude-Perfect](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect)
+3. ❗️ Closed issue [#112](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect/issues/112) in [Dude-Perfect-Discord-Bot/Dude-Perfect](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect)
+4. 🗣 Commented on [#112](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect/issues/112) in [Dude-Perfect-Discord-Bot/Dude-Perfect](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect)
+5. ❗️ Opened issue [#112](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect/issues/112) in [Dude-Perfect-Discord-Bot/Dude-Perfect](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect)
 <!--END_SECTION:activity-->
 
 ### 🔖 My Statistics
