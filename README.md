@@ -41,11 +41,11 @@ I'm Arindam Hazra from India, you can also call me Xynox. I'm a student as well 
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/TheKaushikGoswami/Dude-Perfect/pull/1) in [TheKaushikGoswami/Dude-Perfect](https://github.com/TheKaushikGoswami/Dude-Perfect)
-2. ❗️ Opened issue [#115](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect/issues/115) in [Dude-Perfect-Discord-Bot/Dude-Perfect](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect)
-3. 🗣 Commented on [#114](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect/issues/114) in [Dude-Perfect-Discord-Bot/Dude-Perfect](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect)
-4. ❗️ Closed issue [#111](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect/issues/111) in [Dude-Perfect-Discord-Bot/Dude-Perfect](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect)
-5. ❗️ Closed issue [#109](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect/issues/109) in [Dude-Perfect-Discord-Bot/Dude-Perfect](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect)
+1. 🎉 Merged PR [#1](https://github.com/arindamz/arindamz.github.io/pull/1) in [arindamz/arindamz.github.io](https://github.com/arindamz/arindamz.github.io)
+2. 💪 Opened PR [#1](https://github.com/arindamz/arindamz.github.io/pull/1) in [arindamz/arindamz.github.io](https://github.com/arindamz/arindamz.github.io)
+3. 💪 Opened PR [#1](https://github.com/TheKaushikGoswami/Dude-Perfect/pull/1) in [TheKaushikGoswami/Dude-Perfect](https://github.com/TheKaushikGoswami/Dude-Perfect)
+4. ❗️ Opened issue [#115](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect/issues/115) in [Dude-Perfect-Discord-Bot/Dude-Perfect](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect)
+5. 🗣 Commented on [#114](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect/issues/114) in [Dude-Perfect-Discord-Bot/Dude-Perfect](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect)
 <!--END_SECTION:activity-->
 
 ### 🔖 My Statistics
