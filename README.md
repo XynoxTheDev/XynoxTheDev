@@ -41,11 +41,11 @@ I'm Arindam Hazra from India, you can also call me Xynox. I'm a student as well 
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/XynoxTheDev/arindamz.github.io/pull/4) in [XynoxTheDev/arindamz.github.io](https://github.com/XynoxTheDev/arindamz.github.io)
-2. 💪 Opened PR [#4](https://github.com/XynoxTheDev/arindamz.github.io/pull/4) in [XynoxTheDev/arindamz.github.io](https://github.com/XynoxTheDev/arindamz.github.io)
-3. 🎉 Merged PR [#3](https://github.com/arindamz/arindamz.github.io/pull/3) in [arindamz/arindamz.github.io](https://github.com/arindamz/arindamz.github.io)
-4. 💪 Opened PR [#3](https://github.com/arindamz/arindamz.github.io/pull/3) in [arindamz/arindamz.github.io](https://github.com/arindamz/arindamz.github.io)
-5. 🎉 Merged PR [#2](https://github.com/arindamz/arindamz.github.io/pull/2) in [arindamz/arindamz.github.io](https://github.com/arindamz/arindamz.github.io)
+1. 💪 Opened PR [#4](https://github.com/XynoxTheDev/github-slideshow/pull/4) in [XynoxTheDev/github-slideshow](https://github.com/XynoxTheDev/github-slideshow)
+2. 💪 Opened PR [#3](https://github.com/XynoxTheDev/github-slideshow/pull/3) in [XynoxTheDev/github-slideshow](https://github.com/XynoxTheDev/github-slideshow)
+3. ❗️ Closed issue [#1](https://github.com/XynoxTheDev/github-slideshow/issues/1) in [XynoxTheDev/github-slideshow](https://github.com/XynoxTheDev/github-slideshow)
+4. 🎉 Merged PR [#4](https://github.com/XynoxTheDev/arindamz.github.io/pull/4) in [XynoxTheDev/arindamz.github.io](https://github.com/XynoxTheDev/arindamz.github.io)
+5. 💪 Opened PR [#4](https://github.com/XynoxTheDev/arindamz.github.io/pull/4) in [XynoxTheDev/arindamz.github.io](https://github.com/XynoxTheDev/arindamz.github.io)
 <!--END_SECTION:activity-->
 
 ### 🔖 My Statistics
