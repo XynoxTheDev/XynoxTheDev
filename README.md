@@ -41,11 +41,11 @@ I'm Arindam Hazra from India, you can also call me Xynox. I'm a student as well 
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3](https://github.com/XynoxTheDev/github-slideshow/pull/3) in [XynoxTheDev/github-slideshow](https://github.com/XynoxTheDev/github-slideshow)
-2. 🎉 Merged PR [#116](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect/pull/116) in [Dude-Perfect-Discord-Bot/Dude-Perfect](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect)
-3. 💪 Opened PR [#4](https://github.com/XynoxTheDev/github-slideshow/pull/4) in [XynoxTheDev/github-slideshow](https://github.com/XynoxTheDev/github-slideshow)
-4. 💪 Opened PR [#3](https://github.com/XynoxTheDev/github-slideshow/pull/3) in [XynoxTheDev/github-slideshow](https://github.com/XynoxTheDev/github-slideshow)
-5. ❗️ Closed issue [#1](https://github.com/XynoxTheDev/github-slideshow/issues/1) in [XynoxTheDev/github-slideshow](https://github.com/XynoxTheDev/github-slideshow)
+1. 🎉 Merged PR [#117](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect/pull/117) in [Dude-Perfect-Discord-Bot/Dude-Perfect](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect)
+2. ❌ Closed PR [#3](https://github.com/XynoxTheDev/github-slideshow/pull/3) in [XynoxTheDev/github-slideshow](https://github.com/XynoxTheDev/github-slideshow)
+3. 🎉 Merged PR [#116](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect/pull/116) in [Dude-Perfect-Discord-Bot/Dude-Perfect](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect)
+4. 💪 Opened PR [#4](https://github.com/XynoxTheDev/github-slideshow/pull/4) in [XynoxTheDev/github-slideshow](https://github.com/XynoxTheDev/github-slideshow)
+5. 💪 Opened PR [#3](https://github.com/XynoxTheDev/github-slideshow/pull/3) in [XynoxTheDev/github-slideshow](https://github.com/XynoxTheDev/github-slideshow)
 <!--END_SECTION:activity-->
 
 ### 🔖 My Statistics
