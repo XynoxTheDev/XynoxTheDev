@@ -41,11 +41,11 @@ I'm Arindam Hazra from India, you can also call me Xynox. I'm a student as well 
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/Dude-Perfect-Discord-Bot/Type-Racer/pull/12) in [Dude-Perfect-Discord-Bot/Type-Racer](https://github.com/Dude-Perfect-Discord-Bot/Type-Racer)
-2. 🎉 Merged PR [#118](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect/pull/118) in [Dude-Perfect-Discord-Bot/Dude-Perfect](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect)
-3. 🎉 Merged PR [#117](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect/pull/117) in [Dude-Perfect-Discord-Bot/Dude-Perfect](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect)
-4. ❌ Closed PR [#3](https://github.com/XynoxTheDev/github-slideshow/pull/3) in [XynoxTheDev/github-slideshow](https://github.com/XynoxTheDev/github-slideshow)
-5. 🎉 Merged PR [#116](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect/pull/116) in [Dude-Perfect-Discord-Bot/Dude-Perfect](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect)
+1. 🎉 Merged PR [#4](https://github.com/XynoxTheDev/markdown-portfolio/pull/4) in [XynoxTheDev/markdown-portfolio](https://github.com/XynoxTheDev/markdown-portfolio)
+2. 🎉 Merged PR [#3](https://github.com/XynoxTheDev/markdown-portfolio/pull/3) in [XynoxTheDev/markdown-portfolio](https://github.com/XynoxTheDev/markdown-portfolio)
+3. 🎉 Merged PR [#2](https://github.com/XynoxTheDev/markdown-portfolio/pull/2) in [XynoxTheDev/markdown-portfolio](https://github.com/XynoxTheDev/markdown-portfolio)
+4. 🗣 Commented on [#1](https://github.com/XynoxTheDev/markdown-portfolio/issues/1) in [XynoxTheDev/markdown-portfolio](https://github.com/XynoxTheDev/markdown-portfolio)
+5. 🎉 Merged PR [#2](https://github.com/XynoxTheDev/hello-github-actions/pull/2) in [XynoxTheDev/hello-github-actions](https://github.com/XynoxTheDev/hello-github-actions)
 <!--END_SECTION:activity-->
 
 ### 🔖 My Statistics
