@@ -47,11 +47,12 @@ I'm Arindam Hazra from India, you can also call me Xynox. I'm a student as well 
 
 
 ![](https://komarev.com/ghpvc/?username=XynoxTheDev&style=flat-square)
-![status](https://dev.discordprofiles.me/badge/status/594853883742912512)
-![playing](https://dev.discordprofiles.me/badge/playing/594853883742912512)
-![vscode](https://dev.discordprofiles.me/badge/vscode/594853883742912512)
-[![spotify](https://dev.discordprofiles.me/badge/spotify/594853883742912512)](https://dev.discordprofiles.me/openspotify/594853883742912512)
-
+![status](https://dev.discordprofiles.me/badge/status/594853883742912512?style=flat-square)
+![playing](https://dev.discordprofiles.me/badge/playing/594853883742912512?style=flat-square)
+![vscode](https://dev.discordprofiles.me/badge/vscode/594853883742912512?style=flat-square)
+![intellij](https://dev.discordprofiles.me/badge/intellij/594853883742912512?style=flat-square)
+[![spotify](https://dev.discordprofiles.me/badge/spotify/594853883742912512?style=flat-square)](https://dev.discordprofiles.me/openspotify/594853883742912512?style=flat-square)
+    
 </div>
 
 
