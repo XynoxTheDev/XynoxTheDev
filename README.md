@@ -16,7 +16,7 @@ limitations under the License.
 <div align = "center">
 
 <a href = "https://arindamz.github.io/">
-<img src = "https://cdn.discordapp.com/attachments/638624243390611466/735122949832704040/xynox-banner.png" />
+<img src = "https://i.imgur.com/qoCRbhB.png" />
 </a>
 
 
