@@ -1,4 +1,4 @@
-<!--Copyright 2019 Arindam Hazra aka Xynox <https://arindamz.github.io/>
+<!--Copyright 2019 Arindam Hazra aka Xynox <https://xynox.codes/>
 
 Licensed under the Apache License, Version 2.0(the "License");
 you may not use this file except in compliance with the License.
@@ -15,7 +15,7 @@ limitations under the License.
 
 <div align = "center">
 
-<a href = "https://arindamz.github.io/">
+<a href = "https://xynox.codes/">
 <img src = "https://i.imgur.com/qoCRbhB.png" />
 </a>
 
