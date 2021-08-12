@@ -21,22 +21,17 @@ limitations under the License.
 
 
 ### :bust_in_silhouette: About
-I'm Arindam Hazra from India, you can also call me Xynox. I'm a student as well as a software developer who is passionate about making awesome things for tons of smiling faces. I like making things, especially things that help or entertain others and discover new stuffs to learn. I spend my free time writing software, singing, making code more efficient or user friendly, and sometimes I do playing video games.
+Heyo 👋 myself Arindam Hazra {Xynox} aka "Noobzie Coder Boi" from India. I'm a student as well as a software developer who is passionate about making awesome things for tons of smiling faces. I like making things, especially those which help or entertain other to bring happiness in others life and discover new stuffs to learn. I spent my free time in programming, singing, listening to songs, making code more efficient or user friendly, and sometimes I do play video games! 😄
 <hr>
 
 
 ### ⚒️ Programming Languages and Tools
-<img width="35px" src="https://cdn.discordapp.com/emojis/813907629989691442.png?v=1" />
-<img width="35px" src="https://cdn.discordapp.com/emojis/813907670176104478.png?v=1" />
-<img width="35px" src="https://cdn.discordapp.com/emojis/230394175080628234.png?v=1" />
-<img width="35px" src="https://cdn.discordapp.com/emojis/813908546852880405.png?v=1" />
-<img width="35px" src="https://cdn.discordapp.com/emojis/754345609384951940.gif?v=1" />
-<img width="35px" src="https://cdn.discordapp.com/emojis/813909686449078353.png?v=1" />
-<img width="35px" src="https://cdn.discordapp.com/emojis/813909685542584321.png?v=1" />
-<img width="35px" src="https://cdn.discordapp.com/emojis/740222847586271383.png?v=1" />
-<img width="35px" src="https://cdn.discordapp.com/emojis/761974754122924054.gif?v=1" />
-<img width="35px" src="https://cdn.discordapp.com/emojis/754345273328664676.gif?v=1" />
-
+<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
+<a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="httpshttps://www.rust-lang.org/" target="_blank"> <img src="http://rust-lang.org/logos/rust-logo-128x128.png" alt="rust-lang" width="40" height="40"/> </a> 
+<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://github.com/nodejs/nodejs.org/blob/master/static/images/logo-hexagon.svg" alt="nodejs" width="40" height="40"/> </a>
 <hr>
 
 ### 🔖 My Statistics
