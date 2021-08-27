@@ -16,7 +16,7 @@ limitations under the License.
 <div align = "center">
 
 <a href = "https://xynox.codes/">
-<img src = "https://i.imgur.com/qoCRbhB.png" />
+<img src = "./assets/banner.png" />
 </a>
 
 
