@@ -20,13 +20,13 @@ limitations under the License.
 </a>
 
 
-### :bust_in_silhouette: About
+## :bust_in_silhouette: About
 &nbsp;
 Hey 👋 myself Arindam Hazra {Xynox} aka “Noobzie Coder Boi” from India. I am a student and software developer, passionate about making awesome things for tons of smiling faces. Enjoy building things, especially those which help or entertain others to bring happiness in others’ life and discover new kinds of stuff to learn. I spent my free time programming, singing, listening to songs, making code more efficient or user friendly, and sometimes playing video games! 😄
 <hr>
 
 
-### ⚒️ Programming Languages and Tools
+## ⚒️ Programming Languages and Tools
 &nbsp;
 <a href="https://firebase.google.com/" target="_blank"> <img src="./assets/icons/logos/firebase.png" alt="firebase" width="40" height="40"/> </a> 
 <a href="https://cloud.google.com" target="_blank"> <img src="./assets/icons/logos/gcp.png" alt="gcp" width="40" height="40"/> </a> 
@@ -36,7 +36,7 @@ Hey 👋 myself Arindam Hazra {Xynox} aka “Noobzie Coder Boi” from India. I 
 <a href="https://www.linux.org/" target="_blank"> <img./assets/banner.png src="./assets/icons/logos/linux.png" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="./assets/icons/logos/nodejs.png" alt="nodejs" width="40" height="40"/> </a>
 <hr>
 
-### 🔖 My Statistics
+## 🔖 My Statistics
 &nbsp;
 <p align="center">
     <a href="https://github.com/XynoxTheDev/">
