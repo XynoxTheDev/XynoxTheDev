@@ -21,25 +21,37 @@ limitations under the License.
 
 
 ### :bust_in_silhouette: About
+&nbsp;
 Hey 👋 myself Arindam Hazra {Xynox} aka “Noobzie Coder Boi” from India. I am a student and software developer, passionate about making awesome things for tons of smiling faces. Enjoy building things, especially those which help or entertain others to bring happiness in others’ life and discover new kinds of stuff to learn. I spent my free time programming, singing, listening to songs, making code more efficient or user friendly, and sometimes playing video games! 😄
 <hr>
 
 
 ### ⚒️ Programming Languages and Tools
-<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-<a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="httpshttps://www.rust-lang.org/" target="_blank"> <img src="http://rust-lang.org/logos/rust-logo-128x128.png" alt="rust-lang" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://github.com/nodejs/nodejs.org/blob/master/static/images/logo-hexagon.svg" alt="nodejs" width="40" height="40"/> </a>
+&nbsp;
+<a href="https://firebase.google.com/" target="_blank"> <img src="./assets/icons/logos/firebase.png" alt="firebase" width="40" height="40"/> </a> 
+<a href="https://cloud.google.com" target="_blank"> <img src="./assets/icons/logos/gcp.png" alt="gcp" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank"> <img src="./assets/icons/logos/git.png" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="./assets/icons/logos/java.png" alt="java" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="./assets/icons/logos/javascript.png" alt="javascript" width="40" height="40"/> </a> 
+<a href="httpshttps://www.rust-lang.org/" target="_blank"> <img src="./assets/icons/logos/rustlang.png" alt="rust-lang" width="40" height="40"/> </a> 
+<a href="https://www.linux.org/" target="_blank"> <img./assets/banner.png src="./assets/icons/logos/linux.png" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="./assets/icons/logos/nodejs.png" alt="nodejs" width="40" height="40"/> </a>
 <hr>
 
 ### 🔖 My Statistics
-![](https://github-readme-streak-stats.herokuapp.com/?user=XynoxTheDev&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api?username=XynoxTheDev&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=XynoxTheDev&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=dark)
-[![](https://spotify-github-profile.vercel.app/api/view?uid=zrei8evwinfjy9d27fjon68hh&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=zrei8evwinfjy9d27fjon68hh&redirect=true)
-
+&nbsp;
+<p align="center">
+    <a href="https://github.com/XynoxTheDev/">
+        <img src="https://github-readme-stats.vercel.app/api?username=XynoxTheDev&hide=issues,prs&count_private=true&show_owner=true&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=db1cff&hide_border=true/" />
+    </a>
+    <a href="https://github.com/XynoxTheDev/">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XynoxTheDev&layout=compact&count_private=true&langs_count=8&card_width=445&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=db1cff&hide_border=true/" />
+    </a>
+    <a href="https://github.com/XynoxTheDev/">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=XynoxTheDev&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=db1cff&ring=db1cff&stroke=FFFFFFFF)](https://git.io/streak-stats" />
+    </a>
+        <a href="https://open.spotify.com/user/zrei8evwinfjy9d27fjon68hh?si=eed83da070104091">
+        <img src="https://spotify-github-profile.vercel.app/api/view?uid=zrei8evwinfjy9d27fjon68hh&cover_image=true&theme=novatorem" width="500px"/>
+    </a>
+</p>
 
 ![](https://komarev.com/ghpvc/?username=XynoxTheDev&style=flat-square)
 ![status](https://dev.discordprofiles.me/badge/status/594853883742912512?style=flat-square)
