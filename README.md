@@ -23,8 +23,6 @@ limitations under the License.
 ## :bust_in_silhouette: About
 &nbsp;
 Hey 👋 myself Arindam Hazra {Xynox} aka “Noobzie Coder Boi” from India. I am a student and software developer, passionate about making awesome things for tons of smiling faces. Enjoy building things, especially those which help or entertain others to bring happiness in others’ life and discover new kinds of stuff to learn. I spent my free time programming, singing, listening to songs, making code more efficient or user friendly, and sometimes playing video games! 😄
-<hr>
-
 
 ## ⚒️ Programming Languages and Tools
 &nbsp;
@@ -34,7 +32,6 @@ Hey 👋 myself Arindam Hazra {Xynox} aka “Noobzie Coder Boi” from India. I 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="./assets/icons/logos/javascript.png" alt="javascript" width="40" height="40"/> </a> 
 <a href="httpshttps://www.rust-lang.org/" target="_blank"> <img src="./assets/icons/logos/rustlang.png" alt="rust-lang" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank"> <img./assets/banner.png src="./assets/icons/logos/linux.png" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="./assets/icons/logos/nodejs.png" alt="nodejs" width="40" height="40"/> </a>
-<hr>
 
 ## 🔖 My Statistics
 &nbsp;
