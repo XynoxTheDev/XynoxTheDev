@@ -17,20 +17,20 @@ limitations under the License.
 
 <p align="center">
     <a href="https://www.xynox.codes/">
-        <img src="./assets/banner.png" />
+        <img src="./assets/banner.svg" />
     </a>
 </p>
 <p align="center">
     <a href="https://www.xynox.codes/">
-        <img src="./assets/icons/header/website.png" width="25px" />
+        <img src="./assets/icons/header/website.svg" width="25px" />
     </a>
     &nbsp;
     <a href="https://github.com/XynoxTheDev/">
-        <img src="./assets/icons/header/github.png" width="25px" />
+        <img src="./assets/icons/header/github.svg" width="25px" />
     </a>
     &nbsp;
     <a href="https://twitter.com/Arindamz03/">
-        <img src="./assets/icons/header/twitter.png" width="25px" />
+        <img src="./assets/icons/header/twitter.svg" width="25px" />
     </a>
 </p>
 
@@ -42,13 +42,13 @@ Heyo 👋 myself Arindam Hazra {Xynox} aka “Noobzie Coder Boi” from India. I
 
 ## ⚒️ Programming Languages and Tools
 &nbsp;
-<a href="https://firebase.google.com/" target="_blank"> <img src="./assets/icons/logos/firebase.png" alt="firebase" width="40" height="40"/> </a> 
-<a href="https://cloud.google.com" target="_blank"> <img src="./assets/icons/logos/gcp.png" alt="gcp" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank"> <img src="./assets/icons/logos/git.png" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="./assets/icons/logos/java.png" alt="java" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="./assets/icons/logos/javascript.png" alt="javascript" width="40" height="40"/> </a> 
-<a href="httpshttps://www.rust-lang.org/" target="_blank"> <img src="./assets/icons/logos/rustlang.png" alt="rust-lang" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank"> <img src="./assets/icons/logos/linux.png" alt="linux" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank"> <img src="./assets/icons/logos/nodejs.png" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://firebase.google.com/" target="_blank"> <img src="./assets/icons/logos/firebase.svg" alt="firebase" width="40" height="40"/> </a> 
+<a href="https://cloud.google.com" target="_blank"> <img src="./assets/icons/logos/gcp.svg" alt="gcp" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank"> <img src="./assets/icons/logos/git.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="./assets/icons/logos/java.svg" alt="java" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="./assets/icons/logos/javascript.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="httpshttps://www.rust-lang.org/" target="_blank"> <img src="./assets/icons/logos/rustlang.svg" alt="rust-lang" width="40" height="40"/> </a> 
+<a href="https://www.linux.org/" target="_blank"> <img src="./assets/icons/logos/linux.svg" alt="linux" width="40" height="40"/> </a> 
+<a href="https://nodejs.org" target="_blank"> <img src="./assets/icons/logos/nodejs.svg" alt="nodejs" width="40" height="40"/> </a>
 
 ## 🔖 My Statistics
 &nbsp;
