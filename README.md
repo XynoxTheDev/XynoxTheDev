@@ -43,7 +43,6 @@ Heyo 👋 myself Arindam Hazra {Xynox} aka “Noobzie Coder Boi” from India. I
 ## ⚒️ Programming Languages and Tools
 &nbsp;
 <a href="https://firebase.google.com/" target="_blank"> <img src="./assets/icons/logos/firebase.svg" alt="firebase" width="40" height="40"/> </a> 
-<a href="https://cloud.google.com" target="_blank"> <img src="./assets/icons/logos/gcp.svg" alt="gcp" width="300" height="300"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="./assets/icons/logos/git.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="./assets/icons/logos/java.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="./assets/icons/logos/javascript.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="httpshttps://www.rust-lang.org/" target="_blank"> <img src="./assets/icons/logos/rustlang.svg" alt="rust-lang" width="40" height="40"/> </a> 
