@@ -15,9 +15,25 @@ limitations under the License.
 
 <div align = "center">
 
-<a href = "https://xynox.codes/">
-<img src = "./assets/banner.png" />
-</a>
+<p align="center">
+    <a href="https://www.xynox.codes/">
+        <img src="./assets/banner.png" />
+    </a>
+</p>
+<p align="center">
+    <a href="https://www.xynox.codes/">
+        <img src="./assets/icons/header/website.png" width="25px" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/XynoxTheDev/">
+        <img src="./assets/icons/header/github.png" width="25px" />
+    </a>
+    &nbsp;
+    <a href="https://twitter.com/Arindamz03/">
+        <img src="./assets/icons/header/twitter.png" width="25px" />
+    </a>
+</p>
+
 
 
 ## :bust_in_silhouette: About
@@ -31,7 +47,8 @@ Hey 👋 myself Arindam Hazra {Xynox} aka “Noobzie Coder Boi” from India. I 
 <a href="https://git-scm.com/" target="_blank"> <img src="./assets/icons/logos/git.png" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="./assets/icons/logos/java.png" alt="java" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="./assets/icons/logos/javascript.png" alt="javascript" width="40" height="40"/> </a> 
 <a href="httpshttps://www.rust-lang.org/" target="_blank"> <img src="./assets/icons/logos/rustlang.png" alt="rust-lang" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank"> <img./assets/banner.png src="./assets/icons/logos/linux.png" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="./assets/icons/logos/nodejs.png" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://www.linux.org/" target="_blank"> <img src="./assets/icons/logos/linux.png" alt="linux" width="40" height="40"/> </a> 
+<a href="https://nodejs.org" target="_blank"> <img src="./assets/icons/logos/nodejs.png" alt="nodejs" width="40" height="40"/> </a>
 
 ## 🔖 My Statistics
 &nbsp;
@@ -58,6 +75,3 @@ Hey 👋 myself Arindam Hazra {Xynox} aka “Noobzie Coder Boi” from India. I 
 [![spotify](https://dev.discordprofiles.me/badge/spotify/594853883742912512?style=flat-square)](https://dev.discordprofiles.me/openspotify/594853883742912512?style=flat-square)
     
 </div>
-
-
-
