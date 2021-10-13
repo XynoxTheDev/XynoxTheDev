@@ -40,15 +40,6 @@ limitations under the License.
 &nbsp;
 Heyo 👋 myself Arindam Hazra {Xynox} aka “Noobzie Coder Boi” from India. I am a student and software developer, passionate about making awesome things for tons of smiling faces. Enjoy building things, especially those which help or entertain others to bring happiness in others’ life and discover new kinds of stuff to learn. I spent my free time programming, singing, listening to songs, making code more efficient or user friendly, and sometimes playing video games! 😄
 
-## ⚒️ Programming Languages and Tools
-&nbsp;
-<a href="https://firebase.google.com/" target="_blank"> <img src="./assets/icons/logos/firebase.svg" alt="firebase" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank"> <img src="./assets/icons/logos/git.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="./assets/icons/logos/java.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="./assets/icons/logos/javascript.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="httpshttps://www.rust-lang.org/" target="_blank"> <img src="./assets/icons/logos/rustlang.svg" alt="rust-lang" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank"> <img src="./assets/icons/logos/linux.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank"> <img src="./assets/icons/logos/nodejs.svg" alt="nodejs" width="40" height="40"/> </a>
-
 ## 🔖 My Statistics
 &nbsp;
 <p align="center">
